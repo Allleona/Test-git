@@ -1,6 +1,4 @@
-12345 
-And once again about cats
+12345_main 
 This file: Progect\Git project\Test-Git
-God! I thought I’d be learning to code with 
-Bruno, but for now I’m learning to make systems 
-work together with DeepSeek.
+And once again about cats
+
