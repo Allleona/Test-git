@@ -1,7 +1,6 @@
-12345 
+12345_main 
+This file: Progect\Git project\Test-Git
 And once again about cats
-Hello
-He-Hhh
-He-He-He
-Example for new branch
-This file: Progect\Git project
+Cats are amazing animals. They are graceful and independent.
+They have many unique abilities.^^
+The following change for the Allleona-patch-2 branch.
